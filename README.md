@@ -3,4 +3,4 @@ header,navigation,section,footer etc.do not style the website ,only focus on the
 
 https://roadmap.sh/projects/basic-html-website
 
-![7KBU6wg](https://github.com/user-attachments/assets/344d1e96-bad4-43b3-b2ca-63b2ddc87474)
+![7KBU6wg](https://github.com/user-attachments/assets/344d1e96-bad4-43b3-b2ca-63b2ddc87474) 
