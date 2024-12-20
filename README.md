@@ -4,4 +4,4 @@ header,navigation,section,footer etc.do not style the website ,only focus on the
 https://roadmap.sh/projects/basic-html-website
 
 
-<img width="942" alt="project1" src="https://github.com/user-attachments/assets/51e93fd3-54e3-47fa-8ca0-4595d21ca970" />
+![7KBU6wg](https://github.com/user-attachments/assets/b1710df2-85cd-400f-8f82-ced1ad57621e)
